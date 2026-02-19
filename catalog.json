@@ -1,0 +1,73 @@
+[
+    {
+      "id": "ultramarines-armor",
+      "title": "Ultramarine Armor",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "free",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_63bfeac2da394f4b9cb7334ef576c082.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_b207290a2a4149628cf35969cd3d6349~mv2.jpg",
+      "tags": ["Ultramarines", "Space Marines", "Imperium"]
+    }, 
+
+    {
+      "id": "the-infinite-void",
+      "title": "The Infinite Void",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "paid",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "purchaseUrl": "https://www.battleservo.com/post/the-infinite-void",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_c906aa770347412182d6e7d24fba3b87~mv2.jpg",
+      "tags": ["Necrons", "Legendary", "Xenos"]
+    },
+
+    {
+      "id": "the-lion",
+      "title": "The Lion",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "paid",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "purchaseUrl": "https://www.battleservo.com/post/the-lion",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_025ceb2e85944d3a874a42a353891e3e~mv2.jpg",
+      "tags": ["Dark Angels", "Legendary", "Imperium"]
+    },
+
+    {
+      "id": "mr_arkifane",
+      "title": "Vashtorr Arkifane",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "paid",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "purchaseUrl": "https://www.battleservo.com/post/mr-arkifane-vashtorr-arkifane",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_51618ca591584982ab0c4f665f7895cc~mv2.jpg",
+      "tags": ["Ultramarines", "Space Marines", "Test"]
+    },
+
+    {
+      "id": "grimdark-flesh",
+      "title": " Grimdark Flesh",
+      "author": "The Grimdark Compendium",
+      "source": "GDC",
+      "access": "free",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_2c6f305d83124517beafb287ccd65505.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_11b2d0d3e6da40ec8537b88e6c1065e0~mv2.jpg",
+      "tags": ["Chaos", "Technique"]
+    },
+
+    {
+      "id": "ravenwing-black-armor",
+      "title": "Ravenwing Black Amror",
+      "author": "The Grimdark Compendium",
+      "source": "GDC",
+      "access": "free",
+      "description": "Test doctrine entry just to verify Scriptorium wiring.",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_cd93d2f57d234079a81f552fb2fb4b76.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_50bd5f1d39a748e99c8cb74bb5a2e5fe~mv2.jpg",
+      "tags": ["Dark Angels", "Space Marines", "Imperium"]
+    }
+]
