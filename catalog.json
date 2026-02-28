@@ -11,6 +11,17 @@
     }, 
 
     {
+      "id": "blood-claw",
+      "title": "Blood Claw",
+      "author": "Feral Painter",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_5ab947862c4e4554918fcb4afb87e3b4.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_e33300d5c6f64a68bcf0bd43e0b75d4f~mv2.jpg",
+      "tags": ["Space Wolves", "Space Marines", "Imperium"]
+    }, 
+    
+    {
       "id": "the-infinite-void",
       "title": "The Infinite Void",
       "author": "Battle Servo Studios",
