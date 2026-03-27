@@ -17,6 +17,7 @@
       "author": "Battle Servo Studios",
       "source": "BSS",
       "access": "free",
+      "category": "technique",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_63bfeac2da394f4b9cb7334ef576c082.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_b207290a2a4149628cf35969cd3d6349~mv2.jpg",
       "tags": ["Ultramarines", "Space Marines", "Imperium"]
@@ -39,6 +40,7 @@
       "author": "Lockhart Minis",
       "source": "BSS",
       "access": "free",
+      "category": "legendary",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_b9bc874da8644bb4a34c8eac09063d4e.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_c906aa770347412182d6e7d24fba3b87~mv2.jpg",
       "tags": ["Necrons", "Legendary", "Xenos"]
@@ -50,6 +52,7 @@
       "author": "The Feral Painter",
       "source": "BSS",
       "access": "free",
+      "category": "legendary",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_750e534cce9446d391c9e4666291dca7.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_025ceb2e85944d3a874a42a353891e3e~mv2.jpg",
       "tags": ["Dark Angels", "Legendary", "Imperium"]
@@ -61,6 +64,7 @@
       "author": "Lockhart Minis",
       "source": "BSS",
       "access": "free",
+      "category": "legendary",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_65dc542f8c6b4fcaaa6469dfd9d53f38.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_51618ca591584982ab0c4f665f7895cc~mv2.jpg",
       "tags": ["Chaos", "Legendary"]
