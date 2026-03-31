@@ -1,5 +1,17 @@
 [
     {
+      "id": "grimdark-leather",
+      "title": "Grimdark Leather",
+      "author": "The Feral Painter",
+      "source": "BSS",
+      "access": "free",
+      "category": "technique",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_45069241256c454ca4f4243205b6b55d.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_85e13a86a5364734a2c1c8943977fda4~mv2.jpg",
+      "tags": ["Technique", "Imperial Guard"]
+    },
+    
+    {
       "id": "power-armor-heat",
       "title": "Power Armor Heat",
       "author": "Bene Crafts",
@@ -68,20 +80,6 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_65dc542f8c6b4fcaaa6469dfd9d53f38.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_51618ca591584982ab0c4f665f7895cc~mv2.jpg",
       "tags": ["Chaos", "Legendary"]
-    },
-
-
-    {
-      "id": "grimdark-flesh",
-      "title": "Grimdark Flesh",
-      "author": "Grimdark Compendium",
-      "source": "GDC",
-      "access": "free",
-      "category": "technique",
-      "presentationStyle": "gdc",
-      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_2c6f305d83124517beafb287ccd65505.zip",
-      "thumbUrl": "https://static.wixstatic.com/media/d07fca_11b2d0d3e6da40ec8537b88e6c1065e0~mv2.jpg",
-      "tags": ["Chaos", "Technique"]
     }
     
 ]
