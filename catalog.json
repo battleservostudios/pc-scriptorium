@@ -1,5 +1,17 @@
 [
     {
+      "id": "lava-sword",
+      "title": "Lava Sword",
+      "author": "Bene Crafts",
+      "source": "BSS",
+      "access": "free",
+      "category": "technique",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_c5531506890748e486048b74bd6fdc66.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_c3f83f0c28ea4f7aa38913a033dee7f8~mv2.jpg",
+      "tags": ["Weapon", "Technique"]
+    },
+    
+    {
       "id": "grimdark-flesh",
       "title": "Grimdark Flesh",
       "author": "Grimdark Compendium",
@@ -44,7 +56,7 @@
       "category": "technique",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_01cd09f4380043ecbad434c5ab063124.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_edb8c8afa79240eea1922b7f23be0bac~mv2.jpg",
-      "tags": ["Space Marines", "Technique"]
+      "tags": ["Armor", "Technique"]
     },
     
     {
