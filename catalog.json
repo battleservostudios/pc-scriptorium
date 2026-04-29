@@ -1,5 +1,18 @@
 [
     {
+      "id": "ravenwing-black-armor",
+      "title": "Ravenwing Black Armor",
+      "author": "Grimdark Compendium",
+      "source": "GDC",
+      "access": "free",
+      "presentationStyle": "gdc",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_2deb91bad01e4c6d9c3d87793442b273.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_312f2edf37b044b3a8ab32d9e0209ea0~mv2.jpg",
+      "tags": ["Dark Angels", "Space Marines", "Imperium"]
+    },
+
+    
+    {
       "id": "green-plasma",
       "title": "Green Plasma Glow",
       "author": "Tsevetar",
