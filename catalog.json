@@ -164,6 +164,18 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_bb5aad2b80d04e039f57d2e64d26d365.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_52e5270aa96d41eabd6c1255fda08dc1~mv2.jpg",
       "tags": ["Orks", "Xenos"]
+    },
+
+    {
+      "id": "scrolls-tutorial",
+      "title": "Scrolls Tutorial",
+      "author": "Bene Crafts",
+      "source": "BSS",
+      "access": "free",
+      "category": "technique",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_bb3b7cd9ea1d42d2834fcfdbafb77313.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_711c81c90d2d44bfa82f43978bb0e91b~mv2.jpg",
+      "tags": ["Technique"]
     }
     
 ]
