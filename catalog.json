@@ -164,6 +164,20 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_65dc542f8c6b4fcaaa6469dfd9d53f38.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_51618ca591584982ab0c4f665f7895cc~mv2.jpg",
       "tags": ["Chaos", "Legendary"]
+    },
+
+
+    {
+      "id": "scrolls-tutorial",
+      "title": "Scrolls Tutorial",
+      "author": "Bene Crafts",
+      "source": "BSS",
+      "access": "free",
+      "category": "technique",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_bb3b7cd9ea1d42d2834fcfdbafb77313.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_711c81c90d2d44bfa82f43978bb0e91b~mv2.jpg",
+      "tags": ["Technique"]
     }
+
     
 ]
