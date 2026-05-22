@@ -188,6 +188,17 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_65dc542f8c6b4fcaaa6469dfd9d53f38.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_51618ca591584982ab0c4f665f7895cc~mv2.jpg",
       "tags": ["Chaos", "Legendary"]
+    },
+
+    {
+      "id": "deathrattle-skeletons",
+      "title": "Deathrattle Skeletons",
+      "author": "Moonsta Minis",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_9d79ef1a8ce3485b9a5f010b5157be71.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_5d0d244633d146ce94569a46bc832c86~mv2.jpg",
+      "tags": ["Soulblight Gravelords", "Age of Sigmar"]
     }
     
 ]
