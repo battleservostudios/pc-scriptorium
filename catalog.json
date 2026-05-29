@@ -1,5 +1,16 @@
 [
     {
+      "id": "drowned-witch",
+      "title": "Drowned Witch",
+      "author": "Alchemist Models",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_26259721a5bb40c596be1945066b1681.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_3f9a6c717b99485ba06d0a6e5d7775da~mv2.jpg",
+      "tags": ["Technique"]
+    },
+    
+    {
       "id": "mr_arkifane",
       "title": "Vashtorr Arkifane",
       "author": "Lockhart Minis",
