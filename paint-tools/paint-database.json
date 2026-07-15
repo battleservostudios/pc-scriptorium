@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "databaseVersion": "2026.07.15.beta.002",
+  "databaseVersion": "2026.07.15.beta.003",
   "updatedAt": "2026-07-15",
   "name": "Paint Codex Paint Tools Database",
   "status": "beta",
@@ -8,8 +8,8 @@
   "counts": {
     "brands": 6,
     "paints": 1008,
-    "matchOverrides": 849,
-    "sourceAuditEntries": 9,
+    "matchOverrides": 888,
+    "sourceAuditEntries": 10,
     "paintsByBrand": {
       "citadel": 129,
       "vallejo": 270,
@@ -20,11 +20,11 @@
     },
     "matchesByTargetBrand": {
       "citadel": 0,
-      "vallejo": 239,
+      "vallejo": 250,
       "ak": 202,
-      "pro_acryl": 17,
-      "two_thin_coats": 168,
-      "army_painter_fanatic": 223
+      "pro_acryl": 18,
+      "two_thin_coats": 194,
+      "army_painter_fanatic": 224
     }
   },
   "brands": [
@@ -22330,16 +22330,16 @@
       "toBrandId": "army_painter_fanatic",
       "matchPaintId": "army_painter_fanatic_wicked_pink",
       "rank": 1,
-      "percent": 70,
-      "source": "retailer_tool",
-      "sourceTier": "secondary_curated",
-      "sourceFamily": "Secondary/community sources",
+      "percent": 90,
+      "source": "manufacturer_chart",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Army Painter Fanatic chart",
       "relationshipType": "source_direct",
       "referenceCount": 1,
       "sourceUrls": [
-        "https://www.goldengoblingames.com/citadel-vallejo-and-warpaints-fanatic-equivalence-charts"
+        "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/A3_Fanatic_Colour_Conversion_Chart_WEB.pdf?v=1726566052"
       ],
-      "notes": "Retailer equivalence page says AP data was provided by The Army Painter; row appears as Pink Horor -> Wicked Pink."
+      "notes": "Official Army Painter Fanatic close-match chart row. The source prints “Pink Horor”; normalized here to “Pink Horror.”"
     },
     {
       "id": "citadel_base_wraithbone__army_painter_fanatic__1",
@@ -32175,6 +32175,670 @@
         "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
       ],
       "notes": "The TTC publisher chart lists Army Painter Pearl Skin; that name resolves directly to current Fanatic Pearl Skin. The chart describes approximate, not necessarily exact, matches."
+    },
+    {
+      "id": "citadel_base_gal_vorbak_red__two_thin_coats__1",
+      "fromPaintId": "citadel_base_gal_vorbak_red",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_amphora_red",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_base_gal_vorbak_red__two_thin_coats__2",
+      "fromPaintId": "citadel_base_gal_vorbak_red",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_dread_red",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_wazdakka_red__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_wazdakka_red",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_emperor_red",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_wazdakka_red__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_wazdakka_red",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_evil_eye_red",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_sons_of_horus_green__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_sons_of_horus_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_ranger_cloak",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_sons_of_horus_green__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_sons_of_horus_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_traitor_green",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_warboss_green__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_warboss_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_gung_ho_green",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_warboss_green__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_warboss_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_goblinoid_green",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_sybarite_green__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_sybarite_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_legion_green",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_sybarite_green__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_sybarite_green",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_ghoul_green",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_base_caledor_sky__two_thin_coats__1",
+      "fromPaintId": "citadel_base_caledor_sky",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_eldar_robe",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_base_caledor_sky__two_thin_coats__2",
+      "fromPaintId": "citadel_base_caledor_sky",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_witching_hour_blue",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_fenrisian_grey__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_fenrisian_grey",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_frost_blue",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_fenrisian_grey__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_fenrisian_grey",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_gravestone_blue",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_kakophoni_purple__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_kakophoni_purple",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_runic_purple",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_kakophoni_purple__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_kakophoni_purple",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_spectral_purple",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_pink_horror__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_pink_horror",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_glistening_gums",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_pink_horror__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_pink_horror",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_perisher_pink",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_fulgrim_pink__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_fulgrim_pink",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_neo_pink",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_fulgrim_pink__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_fulgrim_pink",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_bright_cyber_pink",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_bloodreaver_flesh__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_bloodreaver_flesh",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_paladin_flesh",
+      "rank": 1,
+      "percent": 85,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Direct publisher-chart comparison. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_base_morghast_bone__two_thin_coats__1",
+      "fromPaintId": "citadel_base_morghast_bone",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_sandstone",
+      "rank": 1,
+      "percent": 85,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Direct publisher-chart comparison. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_gorthor_brown__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_gorthor_brown",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_ancient_forest",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_gorthor_brown__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_gorthor_brown",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_boot_strap_brown",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_baneblade_brown__two_thin_coats__1",
+      "fromPaintId": "citadel_layer_baneblade_brown",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_wasteland_brown",
+      "rank": 1,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 1 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_baneblade_brown__two_thin_coats__2",
+      "fromPaintId": "citadel_layer_baneblade_brown",
+      "toBrandId": "two_thin_coats",
+      "matchPaintId": "two_thin_coats_core_vambrace_brown",
+      "rank": 2,
+      "percent": 80,
+      "source": "official",
+      "sourceTier": "manufacturer_published_approx",
+      "sourceFamily": "Two Thin Coats comparison chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf"
+      ],
+      "notes": "Ranked publisher-chart alternative 2 of 2. TTC states that chart matches are approximate and not endorsed by the compared brand."
+    },
+    {
+      "id": "citadel_layer_blue_horror__vallejo__1",
+      "fromPaintId": "citadel_layer_blue_horror",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_wolf_grey",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_base_corvus_black__vallejo__1",
+      "fromPaintId": "citadel_base_corvus_black",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_charcoal",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_base_daemonette_hide__vallejo__1",
+      "fromPaintId": "citadel_base_daemonette_hide",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_alien_purple",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_dawnstone__vallejo__1",
+      "fromPaintId": "citadel_layer_dawnstone",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_stonewall_grey",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_dechala_lilac__vallejo__1",
+      "fromPaintId": "citadel_layer_dechala_lilac",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_lustful_purple",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_dorn_yellow__vallejo__1",
+      "fromPaintId": "citadel_layer_dorn_yellow",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_toxic_yellow",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_fulgrim_pink__vallejo__1",
+      "fromPaintId": "citadel_layer_fulgrim_pink",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_squid_pink",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_gauss_blaster_green__vallejo__1",
+      "fromPaintId": "citadel_layer_gauss_blaster_green",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_ghost_green",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_screaming_skull__vallejo__1",
+      "fromPaintId": "citadel_layer_screaming_skull",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_bone_white",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_layer_tau_light_ochre__vallejo__1",
+      "fromPaintId": "citadel_layer_tau_light_ochre",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_game_color_bronze_brown",
+      "rank": 1,
+      "percent": 95,
+      "source": "official",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Vallejo official chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf"
+      ],
+      "notes": "Official Vallejo Game Color equivalence in CC266 Rev.01."
+    },
+    {
+      "id": "citadel_base_night_lords_blue__army_painter_fanatic__1",
+      "fromPaintId": "citadel_base_night_lords_blue",
+      "toBrandId": "army_painter_fanatic",
+      "matchPaintId": "army_painter_fanatic_imperial_navy",
+      "rank": 1,
+      "percent": 90,
+      "source": "manufacturer_chart",
+      "sourceTier": "manufacturer_official",
+      "sourceFamily": "Army Painter Fanatic chart",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://cdn.shopify.com/s/files/1/0636/1232/1970/files/A3_Fanatic_Colour_Conversion_Chart_WEB.pdf?v=1726566052"
+      ],
+      "notes": "Official Army Painter Fanatic close-match chart row; source spelling “Nightlords Blue” is normalized to the catalog name “Night Lords Blue.”"
+    },
+    {
+      "id": "citadel_base_celestra_grey__vallejo__1",
+      "fromPaintId": "citadel_base_celestra_grey",
+      "toBrandId": "vallejo",
+      "matchPaintId": "vallejo_model_color_pale_grey_blue",
+      "rank": 1,
+      "percent": 70,
+      "source": "mixed_sources",
+      "sourceTier": "secondary_curated",
+      "sourceFamily": "Curated compatibility charts",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://herrickgames.com/pages/paint-comparison-chart-between-hobby-ranges",
+        "https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart"
+      ],
+      "notes": "Curated approximate substitute. Herrick identifies its table as based on the DakkaDakka compatibility chart, so these are treated as one evidence lineage rather than two independent references."
+    },
+    {
+      "id": "citadel_layer_ulthuan_grey__pro_acryl__1",
+      "fromPaintId": "citadel_layer_ulthuan_grey",
+      "toBrandId": "pro_acryl",
+      "matchPaintId": "pro_acryl_core_bright_warm_grey",
+      "rank": 1,
+      "percent": 70,
+      "source": "retailer_tool",
+      "sourceTier": "secondary_curated",
+      "sourceFamily": "Curated compatibility charts",
+      "relationshipType": "source_direct",
+      "referenceCount": 1,
+      "sourceUrls": [
+        "https://herrickgames.com/pages/paint-comparison-chart-between-hobby-ranges"
+      ],
+      "notes": "Curated approximate substitute from a retailer compatibility chart; no manufacturer-official equivalence was found."
     }
   ],
   "sourceAudit": [
@@ -32217,36 +32881,36 @@
     {
       "sourceFamily": "Vallejo Game Color chart",
       "sourceType": "manufacturer_official",
-      "sourceUrl": "CC266-Game_Color.pdf",
-      "usedFor": "Vallejo Game Color code map",
+      "sourceUrl": "https://www.vallejoacrylics.com/wp-content/uploads/2023/09/CC266-Game_Color-NewIC-Rev01-1.pdf",
+      "usedFor": "Vallejo Game Color code map and Citadel→Game Color official equivalences",
       "rowsImported": 50,
-      "confidencePolicy": "Not a match source; ID/code authority",
-      "notes": "Official Vallejo chart used to resolve 72.xxx codes."
+      "confidencePolicy": "95 for clean official equivalences; catalog codes are ID authority",
+      "notes": "Official Vallejo chart used to resolve 72.xxx codes and support 50 current Citadel→Game Color equivalence rows."
     },
     {
       "sourceFamily": "Two Thin Coats comparison chart",
       "sourceType": "manufacturer_published_approx",
       "sourceUrl": "https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf",
       "usedFor": "TTC↔Vallejo, Citadel↔TTC, and direct-name TTC→Army Painter Fanatic publisher rows",
-      "rowsImported": 222,
+      "rowsImported": 248,
       "confidencePolicy": "85 for direct publisher-chart rows; 80 for reverse or derived rows; 90 only with exceptional corroboration",
-      "notes": "The TTC publisher chart explicitly says matches are approximate and are not endorsed by the compared brands. Standard acrylic MVP rows only."
+      "notes": "The TTC publisher chart explicitly says matches are approximate and are not endorsed by the compared brands. Standard acrylic MVP rows only; ranked alternatives retain chart order."
     },
     {
       "sourceFamily": "Army Painter Fanatic chart",
       "sourceType": "manufacturer_official",
       "sourceUrl": "https://thearmypainter.com/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
       "usedFor": "Citadel→Army Painter Fanatic official-chart rows",
-      "rowsImported": 99,
+      "rowsImported": 101,
       "confidencePolicy": "90 for official close-match chart rows; lower for known ambiguity or secondary evidence",
-      "notes": "Army Painter's official conversion chart says its physically compared suggestions are close matches, but not always exact."
+      "notes": "Army Painter's official conversion chart says its physically compared suggestions are close matches, but not always exact. Source spelling variants were normalized to current catalog paint names."
     },
     {
       "sourceFamily": "Pro Acryl secondary sources",
       "sourceType": "secondary_curated",
       "sourceUrl": "Various community/retailer sources",
       "usedFor": "Citadel→Pro Acryl curated secondary-source rows",
-      "rowsImported": 17,
+      "rowsImported": 18,
       "confidencePolicy": "60–80 depending curated source strength and corroboration",
       "notes": "No official Pro Acryl conversion chart was found. Match confidence uses curated community or retailer evidence; manufacturer catalogs are paint-ID authorities, not match evidence."
     },
@@ -32258,10 +32922,19 @@
       "rowsImported": 49,
       "confidencePolicy": "80 for two-stage curated crosswalks using both publisher charts",
       "notes": "The TTC chart (https://transatlantisgames.com/wp-content/uploads/2024/05/a3-180-Paint-Colour-Chart-v6-1.pdf) names original Army Painter paints; Army Painter's official chart resolves those names to current Fanatic paints. These are derived, not direct, matches."
+    },
+    {
+      "sourceFamily": "Curated compatibility charts",
+      "sourceType": "secondary_curated",
+      "sourceUrl": "https://herrickgames.com/pages/paint-comparison-chart-between-hobby-ranges",
+      "usedFor": "Celestra Grey and Ulthuan Grey gap rows",
+      "rowsImported": 2,
+      "confidencePolicy": "70 for a curated approximate substitute without manufacturer-official equivalence",
+      "notes": "Herrick states its chart is based on the DakkaDakka compatibility chart (https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart); that dependency is counted as one evidence lineage, not independent corroboration."
     }
   ],
   "validation": {
-    "generatedAt": "2026-07-15T21:16:16.510Z",
+    "generatedAt": "2026-07-15T21:36:48.847Z",
     "duplicatePaintIds": false,
     "duplicateMatchIds": false,
     "invalidFromPaintIdCount": 0,
