@@ -2,7 +2,7 @@
     {
       "id": "blood-angel",
       "title": "Blood Angel",
-      "author": "Moonsta Minis",
+      "author": "Moonsta Minis Studio",
       "source": "BSS",
       "access": "free",
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_681d3f742f2a4babbb0d1cabbe1ba772.zip",
@@ -19,17 +19,6 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_de2a600b6a584933b03c5dc7e02547cd.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_1663474466874d0386cd3d81fab9c729~mv2.jpg",
       "tags": ["World Eaters", "Chaos", "Primarch"]
-    },
-
-    {
-      "id": "deathrattle-skeletons",
-      "title": "Deathrattle Skeletons",
-      "author": "Moonsta Minis Studio",
-      "source": "BSS",
-      "access": "free",
-      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_9d79ef1a8ce3485b9a5f010b5157be71.zip",
-      "thumbUrl": "https://static.wixstatic.com/media/d07fca_5d0d244633d146ce94569a46bc832c86~mv2.jpg",
-      "tags": ["Soulblight Gravelords", "Age of Sigmar"]
     },
     
     {
@@ -88,6 +77,17 @@
       "tags": ["Weapon", "Technique"]
     },
 
+    {
+      "id": "deathrattle-skeletons",
+      "title": "Deathrattle Skeletons",
+      "author": "Moonsta Minis Studio",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_9d79ef1a8ce3485b9a5f010b5157be71.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_5d0d244633d146ce94569a46bc832c86~mv2.jpg",
+      "tags": ["Soulblight Gravelords", "Age of Sigmar"]
+    },
+    
     {
       "id": "green-plasma",
       "title": "Green Plasma Glow",
