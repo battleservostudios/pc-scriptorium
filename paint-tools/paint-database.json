@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "databaseVersion": "2026.07.15.beta.003",
-  "updatedAt": "2026-07-15",
+  "databaseVersion": "2026.07.22.beta.004",
+  "updatedAt": "2026-07-22",
   "name": "Paint Codex Paint Tools Database",
   "status": "beta",
   "description": "Source-backed miniature paint matching database for Paint Codex Paint Match beta. Standard acrylic MVP ranges only.",
@@ -30,7 +30,7 @@
   "brands": [
     {
       "id": "citadel",
-      "label": "Citadel",
+      "label": "Warhammer Colour",
       "catalogRows": 299,
       "matchableMvpRows": 129,
       "notes": null
@@ -75,7 +75,7 @@
     {
       "id": "citadel_base_abaddon_black",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Abaddon Black",
@@ -92,7 +92,7 @@
     {
       "id": "citadel_base_averland_sunset",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Averland Sunset",
@@ -109,7 +109,7 @@
     {
       "id": "citadel_base_barak_nar_burgundy",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Barak-Nar Burgundy",
@@ -126,7 +126,7 @@
     {
       "id": "citadel_base_bugmans_glow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Bugman's Glow",
@@ -143,7 +143,7 @@
     {
       "id": "citadel_base_caledor_sky",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Caledor Sky",
@@ -160,7 +160,7 @@
     {
       "id": "citadel_base_caliban_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Caliban Green",
@@ -177,7 +177,7 @@
     {
       "id": "citadel_base_castellan_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Castellan Green",
@@ -194,7 +194,7 @@
     {
       "id": "citadel_base_catachan_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Catachan Flesh",
@@ -211,7 +211,7 @@
     {
       "id": "citadel_base_celestra_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Celestra Grey",
@@ -228,7 +228,7 @@
     {
       "id": "citadel_base_ceramite_white",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Ceramite White",
@@ -245,7 +245,7 @@
     {
       "id": "citadel_base_corax_white",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Corax White",
@@ -262,7 +262,7 @@
     {
       "id": "citadel_base_corvus_black",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Corvus Black",
@@ -279,7 +279,7 @@
     {
       "id": "citadel_base_daemonette_hide",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Daemonette Hide",
@@ -296,7 +296,7 @@
     {
       "id": "citadel_base_death_guard_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Death Guard Green",
@@ -313,7 +313,7 @@
     {
       "id": "citadel_base_death_korps_drab",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Death Korps Drab",
@@ -330,7 +330,7 @@
     {
       "id": "citadel_base_deathworld_forest",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Deathworld Forest",
@@ -347,7 +347,7 @@
     {
       "id": "citadel_base_dryad_bark",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Dryad Bark",
@@ -364,7 +364,7 @@
     {
       "id": "citadel_base_gal_vorbak_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Gal Vorbak Red",
@@ -381,7 +381,7 @@
     {
       "id": "citadel_base_grey_seer",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Grey Seer",
@@ -398,7 +398,7 @@
     {
       "id": "citadel_base_hobgrot_hide",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Hobgrot Hide",
@@ -415,7 +415,7 @@
     {
       "id": "citadel_base_incubi_darkness",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Incubi Darkness",
@@ -432,7 +432,7 @@
     {
       "id": "citadel_base_ionrach_skin",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Ionrach Skin",
@@ -449,7 +449,7 @@
     {
       "id": "citadel_base_jokaero_orange",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Jokaero Orange",
@@ -466,7 +466,7 @@
     {
       "id": "citadel_base_kantor_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Kantor Blue",
@@ -483,7 +483,7 @@
     {
       "id": "citadel_base_khorne_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Khorne Red",
@@ -500,7 +500,7 @@
     {
       "id": "citadel_base_lupercal_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Lupercal Green",
@@ -517,7 +517,7 @@
     {
       "id": "citadel_base_macragge_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Macragge Blue",
@@ -534,7 +534,7 @@
     {
       "id": "citadel_base_mechanicus_standard_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Mechanicus Standard Grey",
@@ -551,7 +551,7 @@
     {
       "id": "citadel_base_mephiston_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Mephiston Red",
@@ -568,7 +568,7 @@
     {
       "id": "citadel_base_morghast_bone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Morghast Bone",
@@ -585,7 +585,7 @@
     {
       "id": "citadel_base_mournfang_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Mournfang Brown",
@@ -602,7 +602,7 @@
     {
       "id": "citadel_base_naggaroth_night",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Naggaroth Night",
@@ -619,7 +619,7 @@
     {
       "id": "citadel_base_night_lords_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Night Lords Blue",
@@ -636,7 +636,7 @@
     {
       "id": "citadel_base_nocturne_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Nocturne Green",
@@ -653,7 +653,7 @@
     {
       "id": "citadel_base_orruk_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Orruk Flesh",
@@ -670,7 +670,7 @@
     {
       "id": "citadel_base_phoenician_purple",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Phoenician Purple",
@@ -687,7 +687,7 @@
     {
       "id": "citadel_base_rakarth_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Rakarth Flesh",
@@ -704,7 +704,7 @@
     {
       "id": "citadel_base_ratskin_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Ratskin Flesh",
@@ -721,7 +721,7 @@
     {
       "id": "citadel_base_rhinox_hide",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Rhinox Hide",
@@ -738,7 +738,7 @@
     {
       "id": "citadel_base_screamer_pink",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Screamer Pink",
@@ -755,7 +755,7 @@
     {
       "id": "citadel_base_steel_legion_drab",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Steel Legion Drab",
@@ -772,7 +772,7 @@
     {
       "id": "citadel_base_stegadon_scale_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Stegadon Scale Green",
@@ -789,7 +789,7 @@
     {
       "id": "citadel_base_the_fang",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "The Fang",
@@ -806,7 +806,7 @@
     {
       "id": "citadel_base_thondia_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Thondia Brown",
@@ -823,7 +823,7 @@
     {
       "id": "citadel_base_thousand_sons_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Thousand Sons Blue",
@@ -840,7 +840,7 @@
     {
       "id": "citadel_base_waaagh_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Waaagh! Flesh",
@@ -857,7 +857,7 @@
     {
       "id": "citadel_base_wraithbone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Wraithbone",
@@ -874,7 +874,7 @@
     {
       "id": "citadel_base_xv_88",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "XV-88",
@@ -891,7 +891,7 @@
     {
       "id": "citadel_base_zandri_dust",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Base",
       "manufacturerCode": null,
       "name": "Zandri Dust",
@@ -908,7 +908,7 @@
     {
       "id": "citadel_layer_administratum_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Administratum Grey",
@@ -925,7 +925,7 @@
     {
       "id": "citadel_layer_ahriman_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Ahriman Blue",
@@ -942,7 +942,7 @@
     {
       "id": "citadel_layer_alaitoc_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Alaitoc Blue",
@@ -959,7 +959,7 @@
     {
       "id": "citadel_layer_altdorf_guard_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Altdorf Guard Blue",
@@ -976,7 +976,7 @@
     {
       "id": "citadel_layer_baharroth_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Baharroth Blue",
@@ -993,7 +993,7 @@
     {
       "id": "citadel_layer_balor_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Balor Brown",
@@ -1010,7 +1010,7 @@
     {
       "id": "citadel_layer_baneblade_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Baneblade Brown",
@@ -1027,7 +1027,7 @@
     {
       "id": "citadel_layer_bestigor_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Bestigor Flesh",
@@ -1044,7 +1044,7 @@
     {
       "id": "citadel_layer_bloodreaver_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Bloodreaver Flesh",
@@ -1061,7 +1061,7 @@
     {
       "id": "citadel_layer_blue_horror",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Blue Horror",
@@ -1078,7 +1078,7 @@
     {
       "id": "citadel_layer_cadian_fleshtone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Cadian Fleshtone",
@@ -1095,7 +1095,7 @@
     {
       "id": "citadel_layer_calgar_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Calgar Blue",
@@ -1112,7 +1112,7 @@
     {
       "id": "citadel_layer_dark_reaper",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Dark Reaper",
@@ -1129,7 +1129,7 @@
     {
       "id": "citadel_layer_dawnstone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Dawnstone",
@@ -1146,7 +1146,7 @@
     {
       "id": "citadel_layer_deathclaw_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Deathclaw Brown",
@@ -1163,7 +1163,7 @@
     {
       "id": "citadel_layer_dechala_lilac",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Dechala Lilac",
@@ -1180,7 +1180,7 @@
     {
       "id": "citadel_layer_deepkin_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Deepkin Flesh",
@@ -1197,7 +1197,7 @@
     {
       "id": "citadel_layer_doombull_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Doombull Brown",
@@ -1214,7 +1214,7 @@
     {
       "id": "citadel_layer_dorn_yellow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Dorn Yellow",
@@ -1231,7 +1231,7 @@
     {
       "id": "citadel_layer_elysian_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Elysian Green",
@@ -1248,7 +1248,7 @@
     {
       "id": "citadel_layer_emperors_children",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Emperor's Children",
@@ -1265,7 +1265,7 @@
     {
       "id": "citadel_layer_eshin_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Eshin Grey",
@@ -1282,7 +1282,7 @@
     {
       "id": "citadel_layer_evil_sunz_scarlet",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Evil Sunz Scarlet",
@@ -1299,7 +1299,7 @@
     {
       "id": "citadel_layer_fenrisian_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Fenrisian Grey",
@@ -1316,7 +1316,7 @@
     {
       "id": "citadel_layer_fire_dragon_bright",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Fire Dragon Bright",
@@ -1333,7 +1333,7 @@
     {
       "id": "citadel_layer_flash_gitz_yellow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Flash Gitz Yellow",
@@ -1350,7 +1350,7 @@
     {
       "id": "citadel_layer_flayed_one_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Flayed One Flesh",
@@ -1367,7 +1367,7 @@
     {
       "id": "citadel_layer_fulgrim_pink",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Fulgrim Pink",
@@ -1384,7 +1384,7 @@
     {
       "id": "citadel_layer_gauss_blaster_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Gauss Blaster Green",
@@ -1401,7 +1401,7 @@
     {
       "id": "citadel_layer_genestealer_purple",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Genestealer Purple",
@@ -1418,7 +1418,7 @@
     {
       "id": "citadel_layer_gorthor_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Gorthor Brown",
@@ -1435,7 +1435,7 @@
     {
       "id": "citadel_layer_hoeth_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Hoeth Blue",
@@ -1452,7 +1452,7 @@
     {
       "id": "citadel_layer_kabalite_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Kabalite Green",
@@ -1469,7 +1469,7 @@
     {
       "id": "citadel_layer_kakophoni_purple",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Kakophoni Purple",
@@ -1486,7 +1486,7 @@
     {
       "id": "citadel_layer_karak_stone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Karak Stone",
@@ -1503,7 +1503,7 @@
     {
       "id": "citadel_layer_kislev_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Kislev Flesh",
@@ -1520,7 +1520,7 @@
     {
       "id": "citadel_layer_knight_questor_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Knight-Questor Flesh",
@@ -1537,7 +1537,7 @@
     {
       "id": "citadel_layer_krieg_khaki",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Krieg Khaki",
@@ -1554,7 +1554,7 @@
     {
       "id": "citadel_layer_loren_forest",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Loren Forest",
@@ -1571,7 +1571,7 @@
     {
       "id": "citadel_layer_lothern_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Lothern Blue",
@@ -1588,7 +1588,7 @@
     {
       "id": "citadel_layer_lugganath_orange",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Lugganath Orange",
@@ -1605,7 +1605,7 @@
     {
       "id": "citadel_layer_moot_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Moot Green",
@@ -1622,7 +1622,7 @@
     {
       "id": "citadel_layer_nurgling_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Nurgling Green",
@@ -1639,7 +1639,7 @@
     {
       "id": "citadel_layer_ogryn_camo",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Ogryn Camo",
@@ -1656,7 +1656,7 @@
     {
       "id": "citadel_layer_pallid_wych_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Pallid Wych Flesh",
@@ -1673,7 +1673,7 @@
     {
       "id": "citadel_layer_phalanx_yellow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Phalanx Yellow",
@@ -1690,7 +1690,7 @@
     {
       "id": "citadel_layer_pink_horror",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Pink Horror",
@@ -1707,7 +1707,7 @@
     {
       "id": "citadel_layer_russ_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Russ Grey",
@@ -1724,7 +1724,7 @@
     {
       "id": "citadel_layer_screaming_skull",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Screaming Skull",
@@ -1741,7 +1741,7 @@
     {
       "id": "citadel_layer_skarsnik_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Skarsnik Green",
@@ -1758,7 +1758,7 @@
     {
       "id": "citadel_layer_skavenblight_dinge",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Skavenblight Dinge",
@@ -1775,7 +1775,7 @@
     {
       "id": "citadel_layer_skrag_brown",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Skrag Brown",
@@ -1792,7 +1792,7 @@
     {
       "id": "citadel_layer_slaanesh_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Slaanesh Grey",
@@ -1809,7 +1809,7 @@
     {
       "id": "citadel_layer_sons_of_horus_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Sons of Horus Green",
@@ -1826,7 +1826,7 @@
     {
       "id": "citadel_layer_sotek_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Sotek Green",
@@ -1843,7 +1843,7 @@
     {
       "id": "citadel_layer_squig_orange",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Squig Orange",
@@ -1860,7 +1860,7 @@
     {
       "id": "citadel_layer_stormvermin_fur",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Stormvermin Fur",
@@ -1877,7 +1877,7 @@
     {
       "id": "citadel_layer_straken_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Straken Green",
@@ -1894,7 +1894,7 @@
     {
       "id": "citadel_layer_sybarite_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Sybarite Green",
@@ -1911,7 +1911,7 @@
     {
       "id": "citadel_layer_tallarn_sand",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Tallarn Sand",
@@ -1928,7 +1928,7 @@
     {
       "id": "citadel_layer_tau_light_ochre",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Tau Light Ochre",
@@ -1945,7 +1945,7 @@
     {
       "id": "citadel_layer_teclis_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Teclis Blue",
@@ -1962,7 +1962,7 @@
     {
       "id": "citadel_layer_temple_guard_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Temple Guard Blue",
@@ -1979,7 +1979,7 @@
     {
       "id": "citadel_layer_thunderhawk_blue",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Thunderhawk Blue",
@@ -1996,7 +1996,7 @@
     {
       "id": "citadel_layer_troll_slayer_orange",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Troll Slayer Orange",
@@ -2013,7 +2013,7 @@
     {
       "id": "citadel_layer_tuskgor_fur",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Tuskgor Fur",
@@ -2030,7 +2030,7 @@
     {
       "id": "citadel_layer_ulthuan_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Ulthuan Grey",
@@ -2047,7 +2047,7 @@
     {
       "id": "citadel_layer_ungor_flesh",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Ungor Flesh",
@@ -2064,7 +2064,7 @@
     {
       "id": "citadel_layer_ushabti_bone",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Ushabti Bone",
@@ -2081,7 +2081,7 @@
     {
       "id": "citadel_layer_vulkan_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Vulkan Green",
@@ -2098,7 +2098,7 @@
     {
       "id": "citadel_layer_warboss_green",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Warboss Green",
@@ -2115,7 +2115,7 @@
     {
       "id": "citadel_layer_warpfiend_grey",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Warpfiend Grey",
@@ -2132,7 +2132,7 @@
     {
       "id": "citadel_layer_warpstone_glow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Warpstone Glow",
@@ -2149,7 +2149,7 @@
     {
       "id": "citadel_layer_wazdakka_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Wazdakka Red",
@@ -2166,7 +2166,7 @@
     {
       "id": "citadel_layer_white_scar",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "White Scar",
@@ -2183,7 +2183,7 @@
     {
       "id": "citadel_layer_wild_rider_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Wild Rider Red",
@@ -2200,7 +2200,7 @@
     {
       "id": "citadel_layer_word_bearers_red",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Word Bearers Red",
@@ -2217,7 +2217,7 @@
     {
       "id": "citadel_layer_xereus_purple",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Xereus Purple",
@@ -2234,7 +2234,7 @@
     {
       "id": "citadel_layer_yriel_yellow",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Yriel Yellow",
@@ -2251,7 +2251,7 @@
     {
       "id": "citadel_layer_zamesi_desert",
       "brandId": "citadel",
-      "brandLabel": "Citadel",
+      "brandLabel": "Warhammer Colour",
       "range": "Layer",
       "manufacturerCode": null,
       "name": "Zamesi Desert",
