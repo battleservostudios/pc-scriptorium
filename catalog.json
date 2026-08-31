@@ -275,6 +275,17 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_01cd09f4380043ecbad434c5ab063124.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_edb8c8afa79240eea1922b7f23be0bac~mv2.jpg",
       "tags": ["Armor", "Technique"]
+    },
+
+    {
+      "id": "lion-eljonson",
+      "title": "Lion El'Jonson",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_00112d64eee94e328521ec7713c50dac.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_a0043177111b4bec937875cb205f1fc8~mv2.jpg",
+      "tags": ["Dark Angels", "Imperium", "Primarch"]
     }
     
 ]
