@@ -1,5 +1,16 @@
 [
     {
+      "id": "custodian-dread",
+      "title": "Custodian Dreadnought",
+      "author": "Battle Servo Studios",
+      "source": "BSS",
+      "access": "free",
+      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_c2c777192960489fa6233141a1272834.zip",
+      "thumbUrl": "https://static.wixstatic.com/media/d07fca_34b143c0201948f6bf8b81c0b7874fda~mv2.jpg",
+      "tags": ["Imperium", "Adeptus Custodes"]
+    },
+    
+    {
       "id": "lion-eljonson",
       "title": "Lion El'Jonson",
       "author": "Battle Servo Studios",
@@ -109,17 +120,6 @@
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_eb4d5a56c8bc4cd39033362a2c6619ff~mv2.jpg",
       "tags": ["Weapon", "Technique"]
     },
-
-    {
-      "id": "deathrattle-skeletons",
-      "title": "Deathrattle Skeletons",
-      "author": "Moonsta Minis Studio",
-      "source": "BSS",
-      "access": "free",
-      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_9d79ef1a8ce3485b9a5f010b5157be71.zip",
-      "thumbUrl": "https://static.wixstatic.com/media/d07fca_5d0d244633d146ce94569a46bc832c86~mv2.jpg",
-      "tags": ["Soulblight Gravelords", "Age of Sigmar"]
-    },
     
     {
       "id": "green-plasma",
@@ -143,17 +143,6 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_b9bc874da8644bb4a34c8eac09063d4e.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_c906aa770347412182d6e7d24fba3b87~mv2.jpg",
       "tags": ["Necrons", "Legendary", "Xenos"]
-    },
-    
-    {
-      "id": "drowned-witch",
-      "title": "Drowned Witch",
-      "author": "Alchemist Models",
-      "source": "BSS",
-      "access": "free",
-      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_26259721a5bb40c596be1945066b1681.zip",
-      "thumbUrl": "https://static.wixstatic.com/media/d07fca_3f9a6c717b99485ba06d0a6e5d7775da~mv2.jpg",
-      "tags": ["Technique"]
     },
     
     {
@@ -213,18 +202,6 @@
       "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_c5531506890748e486048b74bd6fdc66.zip",
       "thumbUrl": "https://static.wixstatic.com/media/d07fca_c3f83f0c28ea4f7aa38913a033dee7f8~mv2.jpg",
       "tags": ["Weapon", "Technique"]
-    },
-    
-    {
-      "id": "the-lion",
-      "title": "The Lion",
-      "author": "The Feral Painter",
-      "source": "BSS",
-      "access": "free",
-      "category": "legendary",
-      "fileUrl": "https://d07fca02-e164-4ab1-b3df-711b72c3dab0.usrfiles.com/archives/d07fca_750e534cce9446d391c9e4666291dca7.zip",
-      "thumbUrl": "https://static.wixstatic.com/media/d07fca_025ceb2e85944d3a874a42a353891e3e~mv2.jpg",
-      "tags": ["Dark Angels", "Legendary", "Imperium"]
     },
     
     {
